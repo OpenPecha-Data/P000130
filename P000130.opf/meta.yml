@@ -1,0 +1,37 @@
+ebook_metadata:
+  title: ༄༅། །རི་ཆོས་མཚམས་ཀྱི་ཞལ་གདམས་བཞུགས་སོ། །
+  authors:
+  - མཛད་པ་པོ། མཁས་གྲུབ་ཀརྨ་ཆགས་མེད།
+  sku: LEK-PHI-123
+  layers:
+  - book_title
+  - author
+  - chapter_title
+  - quotation
+  - yigchung
+web_metadata:
+  title:
+    en: An Instruction on Mountain Dharma Practices
+    bo: རི་ཆོས་མཚམས་ཀྱི་ཞལ་གདམས་བཞུགས་སོ།།
+  collection:
+    en: Lekshey Ling Philosophy Series–  Book 123
+    bo: ལེགས་བཤད་གླིང་རིགས་པའི་གཞུང་ལུགས།–  དེབ། ༡༢༣
+  author:
+    en: Khedrub Karma Chagme
+    bo: མཁས་གྲུབ་ཀརྨ་ཆགས་མེད།
+  pusblisher:
+    en: Lekshey Ling Philosophy Series
+    bo: ཀརྨ་ལེགས་བཤད་གླིང།
+  sku: LEK-PHI-123
+  category:
+    en: Retreat Manuals
+    bo: མཚམས་དེབ་ཆུང་།
+  org:
+    bo: Timeless Treasuries
+    en: མཐའ་ཡས་དཔེ་མཛོད།
+  website: http://dharmacloud.tsadra.org
+  aquisition_data: '2019-07-18'
+  filename: LEK-PHI-123.epub
+  description:
+    en: ''
+    bo: ''
